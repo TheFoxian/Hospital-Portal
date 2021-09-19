@@ -1,0 +1,7 @@
+[22-Mar-2021 13:41:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
+[23-Mar-2021 17:22:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
+[23-Mar-2021 17:31:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
+[23-Mar-2021 17:31:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
+[23-Mar-2021 17:31:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
+[24-Mar-2021 11:27:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
+[24-Mar-2021 17:52:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/q5jh6c9t66lz/public_html/nh/doctor/include/config.php on line 6
